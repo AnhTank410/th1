@@ -260,7 +260,11 @@ nav .nav-right a > i{
     align-items: center;
     padding:10px;
 }
-
+/* .bb{
+    display:flex;
+    max-width: 0px;
+    padding:5px;
+} */
 .post .post-top .dp{
     width:40px;
     height:40px;
